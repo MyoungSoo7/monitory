@@ -8,7 +8,7 @@ sites:
   - name: PharmacyRecommend
     url: http://infolim.site:8081
   - name: LowShoppingList
-    url: http://infolim.site:8082
+    url: http://infolim.site:8082/user/login
   - name: NaverBlog
     url: https://blog.naver.com/iamipro
   - name : TistoryBlog
