@@ -4,11 +4,11 @@ repo: monitory # The name of this repository
 
 sites:
   - name: Crawling
-    url: http://infolim.site:5000
+    url: http://limmyoungsoo.shop:5000
   - name: PharmacyRecommend
-    url: http://infolim.site:8081
+    url: http://limmyoungsoo.shop:8081
   - name: LowShoppingList
-    url: http://infolim.site:8082
+    url: http://limmyoungsoo.shop:8082
   - name: NaverBlog
     url: https://blog.naver.com/iamipro
   - name : TistoryBlog
