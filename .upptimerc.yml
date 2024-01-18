@@ -9,8 +9,8 @@ sites:
  #    url: http://limmyoungsoo.shop:8081
  #  - name: LowShoppingList
  #    url: http://limmyoungsoo.shop:8082
-   - name: NaverBlog
-     url: https://blog.naver.com/iamipro
+  - name: NaverBlog
+    url: https://blog.naver.com/iamipro
   - name : TistoryBlog
     url: https://iamipro.tistory.com
 
