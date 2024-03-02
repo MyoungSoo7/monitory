@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/limmyoungsoo.shop.ico",
     "slug": "crawling",
     "status": "up",
-    "uptime": "87.81%",
+    "uptime": "88.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.81%",
+    "uptimeYear": "88.01%",
     "time": 1659,
     "timeDay": 1355,
     "timeWeek": 1709,
@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/limmyoungsoo.shop.ico",
     "slug": "pharmacy-recommend",
     "status": "up",
-    "uptime": "87.81%",
+    "uptime": "88.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.81%",
+    "uptimeYear": "88.02%",
     "time": 859,
     "timeDay": 643,
     "timeWeek": 1107,
@@ -74,7 +74,7 @@
     "url": "https://iamipro.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/iamipro.tistory.com.ico",
     "slug": "tistory-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,6 +85,8 @@
     "timeWeek": 1796,
     "timeMonth": 1804,
     "timeYear": 1809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   }
 ]
