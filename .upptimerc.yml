@@ -9,10 +9,12 @@ sites:
     url: http://www.lmshi.shop:8081
   - name: LowShoppingList
     url: http://www.lmshi.shop:8083
-  - name: NaverBlog
+  - name: Personal Blog
     url: https://blog.naver.com/iamipro
-  - name : TistoryBlog
+  - name : IT Blog
     url: https://iamipro.tistory.com
+  - name : Coding Velog
+    url: https://velog.io/@iamipro/posts
 
 status-website:  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
