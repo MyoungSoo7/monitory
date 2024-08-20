@@ -424,19 +424,19 @@
     "url": "https://iamipro.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/iamipro.tistory.com.ico",
     "slug": "it-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1842,
-    "timeDay": 4870,
-    "timeWeek": 2591,
-    "timeMonth": 1926,
-    "timeYear": 1842,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1845,
+    "timeDay": 3922,
+    "timeWeek": 2521,
+    "timeMonth": 1929,
+    "timeYear": 1845,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 20
     }
   },
   {
