@@ -436,19 +436,19 @@
     "url": "https://blog.naver.com/iamipro",
     "icon": "https://icons.duckduckgo.com/ip3/blog.naver.com.ico",
     "slug": "personal-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 812,
-    "timeWeek": 664,
-    "timeMonth": 833,
-    "timeYear": 761,
+    "time": 762,
+    "timeDay": 859,
+    "timeWeek": 695,
+    "timeMonth": 835,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-11-05": 0
+      "2024-11-05": 10
     }
   },
   {
