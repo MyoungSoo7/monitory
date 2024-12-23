@@ -9,6 +9,8 @@ sites:
     url: http://www.lmshi.shop:8081
   - name: LowShoppingList
     url: http://www.lmshi.shop:8083
+  - name: SNS
+    url: http://www.lmshi.shop:8087
   - name: Personal Blog
     url: https://blog.naver.com/iamipro
   - name : IT Blog
