@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.shop.ico",
     "slug": "crawling",
     "status": "down",
-    "uptime": "64.00%",
+    "uptime": "63.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1465,
     "dailyMinutesDown": {
-      "2025-04-25": 88,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -153,8 +154,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -163,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.shop.ico",
     "slug": "pharmacy-recommend",
     "status": "down",
-    "uptime": "64.01%",
+    "uptime": "63.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -174,7 +174,8 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-04-25": 88,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -310,8 +311,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -320,18 +320,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.shop.ico",
     "slug": "low-shopping-list",
     "status": "down",
-    "uptime": "21.37%",
+    "uptime": "21.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.93%",
+    "uptimeYear": "61.05%",
     "time": 910,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-04-25": 88,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -467,8 +468,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -477,18 +477,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.shop.ico",
     "slug": "sns",
     "status": "down",
-    "uptime": "57.42%",
+    "uptime": "56.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.42%",
+    "uptimeYear": "56.96%",
     "time": 648,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-04-25": 88,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -558,9 +559,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 836,
-    "timeWeek": 758,
-    "timeMonth": 731,
+    "timeDay": 690,
+    "timeWeek": 725,
+    "timeMonth": 717,
     "timeYear": 777,
     "dailyMinutesDown": {}
   },
@@ -575,11 +576,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1803,
-    "timeDay": 1726,
-    "timeWeek": 1684,
-    "timeMonth": 1674,
-    "timeYear": 1803,
+    "time": 1802,
+    "timeDay": 1514,
+    "timeWeek": 1639,
+    "timeMonth": 1666,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2024-12-19": 16,
       "2024-12-09": 29,
@@ -598,9 +599,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1348,
-    "timeDay": 1224,
-    "timeWeek": 1107,
-    "timeMonth": 1088,
+    "timeDay": 1079,
+    "timeWeek": 1099,
+    "timeMonth": 1086,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2025-03-05": 362,
