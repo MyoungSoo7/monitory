@@ -4,19 +4,21 @@ repo: monitory # The name of this repository
 
 sites:
   - name: Crawling
-    url: http://www.lmshi.shop:5000
+    url: http://www.lmshi.site:5000
   - name: PharmacyRecommend
-    url: http://www.lmshi.shop:8081
+    url: http://www.lmshi.site:8081
   - name: LowShoppingList
-    url: http://www.lmshi.shop:8083
+    url: http://www.lmshi.site:8083
   - name: SNS
-    url: http://www.lmshi.shop:8087
+    url: http://www.lmshi.site:8087
   - name: Personal Blog
     url: https://blog.naver.com/iamipro
   - name : IT Blog
     url: https://iamipro.tistory.com
   - name : Coding Velog
     url: https://velog.io/@iamipro/posts
+  - name : Oversea Medium Blog
+    url : https://medium.com/@jinsim37
 
 status-website:  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
