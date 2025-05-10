@@ -17,7 +17,7 @@ sites:
     url: https://iamipro.tistory.com
   - name : Coding Velog
     url: https://velog.io/@iamipro/posts
-  - name : Oversea Medium Blog
+  - name : Medium Blog
     url : https://medium.com/@jinsim37
 
 status-website:  
