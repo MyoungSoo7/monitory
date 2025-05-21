@@ -8,8 +8,8 @@
     "uptime": "63.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.76%",
-    "uptimeYear": "67.85%",
+    "uptimeMonth": "42.07%",
+    "uptimeYear": "67.87%",
     "time": 1517,
     "timeDay": 1646,
     "timeWeek": 1557,
@@ -141,8 +141,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   },
   {
@@ -151,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.site.ico",
     "slug": "pharmacy-recommend",
     "status": "up",
-    "uptime": "63.12%",
+    "uptime": "63.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.72%",
-    "uptimeYear": "67.85%",
+    "uptimeMonth": "42.03%",
+    "uptimeYear": "67.87%",
     "time": 690,
     "timeDay": 1317,
     "timeWeek": 748,
@@ -286,8 +285,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   },
   {
@@ -296,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.site.ico",
     "slug": "low-shopping-list",
     "status": "up",
-    "uptime": "23.26%",
+    "uptime": "23.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.72%",
-    "uptimeYear": "67.19%",
+    "uptimeMonth": "42.03%",
+    "uptimeYear": "67.23%",
     "time": 910,
     "timeDay": 1872,
     "timeWeek": 1035,
@@ -431,8 +429,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   },
   {
@@ -441,11 +438,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lmshi.site.ico",
     "slug": "sns",
     "status": "up",
-    "uptime": "55.66%",
+    "uptime": "55.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.72%",
-    "uptimeYear": "55.66%",
+    "uptimeMonth": "42.03%",
+    "uptimeYear": "55.69%",
     "time": 642,
     "timeDay": 435,
     "timeWeek": 647,
@@ -591,18 +588,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium-blog",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 915,
     "timeDay": 604,
     "timeWeek": 899,
     "timeMonth": 915,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-05-20": 14,
       "2025-05-15": 31
     }
   }
