@@ -8,7 +8,7 @@ sites:
   - name: PharmacyRecommend
     url: http://www.lmshi.site:8081
   - name: LowShoppingList
-    url: http://www.lmshi.site:8083
+    url: https://shopping.lmshi.site
   - name: SNS
     url: http://www.lmshi.site:8087
   - name: Personal Blog
