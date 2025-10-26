@@ -3,8 +3,8 @@ owner: MyoungSoo7 # Your GitHub organization or username, where this repository 
 repo: monitory # The name of this repository
 
 sites:
-  - name: Crawling
-    url: https://crawling.lmshi.site
+  - name: News
+    url: https://news.lmshi.site
   - name: PharmacyRecommend
     url: https://pharmacy.lmshi.site
   - name: LowShoppingList
