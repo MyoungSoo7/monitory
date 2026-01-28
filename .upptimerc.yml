@@ -3,22 +3,22 @@ owner: MyoungSoo7 # Your GitHub organization or username, where this repository 
 repo: monitory # The name of this repository
 
 sites:
-   - name: News
-     url: https://news.lmshi.site
-   - name: PharmacyRecommend
-     url: https://pharmacy.lmshi.site
-   - name: LowShoppingList
-     url: https://shopping.lmshi.site
-   - name: SNS
-     url: https://sns.lmshi.site
-   - name: Personal Blog
-     url: https://blog.naver.com/iamipro
+  - name: News
+    url: https://news.lmshi.site
+  - name: PharmacyRecommend
+    url: https://pharmacy.lmshi.site
+  - name: LowShoppingList
+    url: https://shopping.lmshi.site
+  - name: SNS
+    url: https://sns.lmshi.site
+  - name: Personal Blog
+    url: https://blog.naver.com/iamipro
   - name : IT Blog
     url: https://iamipro.tistory.com
   - name : Coding Velog
     url: https://velog.io/@iamipro/posts
-  # - name : Medium Blog
-  #   url : https://medium.com/@jinsim37
+  - name : Medium Blog
+    url : https://medium.com/@jinsim37
 
 status-website:  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
