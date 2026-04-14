@@ -4,13 +4,13 @@ repo: monitory # The name of this repository
 
 sites:
    - name: News
-     url: https://news.lmshi.site
+     url: https://news.lemuel.co.kr
    - name: PharmacyRecommend
-     url: https://pharmacy.lmshi.site
+     url: https://pharmacy.lemuel.co.kr
    - name: LowShoppingList
-     url: https://shopping.lmshi.site
+     url: https://lowshopping.lemuel.co.kr
    - name: SNS
-     url: https://sns.lmshi.site
+     url: https://sns.lemuel.co.kr
    - name: Personal Blog
      url: https://blog.naver.com/iamipro
    - name : IT Blog
