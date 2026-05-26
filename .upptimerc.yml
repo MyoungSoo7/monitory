@@ -4,37 +4,7 @@ repo: monitory # The name of this repository
 
 sites:
    - name: jen
-     url: https://jen.lemuel.co.kr
-   - name: chat
-     url: https://chat.lemuel.co.kr
-   - name: eln
-     url: https://eln.lemuel.co.kr
-   - name: codingtest
-     url: https://codingtest.lemuel.co.kr
-   - name: database
-     url: https://database.lemuel.co.kr
-   - name: goods
-     url: https://goods.lemuel.co.kr
-   - name: fashion
-     url: https://fashion.lemuel.co.kr   
-   - name: jabis
-     url: https://jabis.lemuel.co.kr      
-   - name: live
-     url: https://live.lemuel.co.kr         
-   - name: PharmacyRecommend
-     url: https://pharmacy.lemuel.co.kr
-   - name: LowShoppingList
-     url: https://lowshopping.lemuel.co.kr
-   - name: SNS
-     url: https://sns.lemuel.co.kr
-   - name: Personal Blog
-     url: https://blog.naver.com/iamipro
-   - name : IT Blog
-     url: https://iamipro.tistory.com
-   - name : Coding Velog
-     url: https://velog.io/@iamipro/posts
-   - name : Medium Blog
-     url : https://medium.com/@jinsim37
+     url: https://jen.lemuel.co.kr 
 
 status-website:  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
